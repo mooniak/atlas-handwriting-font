@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snTTHA_Virama" format="2">
+	<advance width="751"/>
+	<outline>
+		<component base="uni0DA8"/>
+		<component base="uni0DCA" xOffset="744" yOffset="-53"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

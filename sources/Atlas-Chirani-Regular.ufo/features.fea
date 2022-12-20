@@ -1,0 +1,271 @@
+### prefix:-1:Languagesystems ###
+### open prefix 'Languagesystems' ###
+languagesystem DFLT dflt;
+languagesystem sinh dflt;
+### close prefix 'Languagesystems' ###
+
+### feature:0:aalt ###
+feature aalt {
+### open feature 'aalt' ###
+feature abvs;
+feature blws;
+feature vatu;
+feature psts;
+feature pstf;
+### close feature 'aalt' ###
+} aalt;
+
+### feature:1:abvs ###
+feature abvs {
+### open feature 'abvs' ###
+sub uni0D9A uni0DCA by snKA_Virama;
+sub uni0D9B uni0DCA by snKHA_Virama;
+sub uni0D9C uni0DCA by snGA_Virama;
+sub uni0D9D uni0DCA by snGHA_Virama;
+sub uni0D9E uni0DCA by snNGA_Virama;
+sub uni0DA0 uni0DCA by snCA_Virama;
+sub uni0DA1 uni0DCA by snCHA_Virama;
+sub uni0DA2 uni0DCA by snJA_Virama;
+sub uni0DA3 uni0DCA by snJHA_Virama;
+sub uni0DA4 uni0DCA by snNYA_Virama;
+sub uni0DA5 uni0DCA by snJNYA_Virama;
+sub uni0DA6 uni0DCA by snNYJA_Virama;
+sub uni0DA7 uni0DCA by snTTA_Virama;
+sub uni0DA8 uni0DCA by snTTHA_Virama;
+sub uni0DA9 uni0DCA by snDDA_Virama;
+sub uni0DAA uni0DCA by snDDHA_Virama;
+sub uni0DAB uni0DCA by snNNA_Virama;
+sub uni0DAC uni0DCA by snNNDDA_Virama;
+sub uni0DAD uni0DCA by snTA_Virama;
+sub uni0DAE uni0DCA by snTHA_Virama;
+sub uni0DAF uni0DCA by snDA_Virama;
+sub uni0DB0 uni0DCA by snDHA_Virama;
+sub uni0DB1 uni0DCA by snNA_Virama;
+sub uni0DB3 uni0DCA by snNDA_Virama;
+sub uni0DB4 uni0DCA by snPA_Virama;
+sub uni0DB5 uni0DCA by snPHA_Virama;
+sub uni0DB6 uni0DCA by snBA_Virama;
+sub uni0DB7 uni0DCA by snBHA_Virama;
+sub uni0DB8 uni0DCA by snMA_Virama;
+sub uni0DB9 uni0DCA by snMBA_Virama;
+sub uni0DBB uni0DCA by snRA_Virama;
+sub uni0DBD uni0DCA by snLA_Virama;
+sub uni0DC0 uni0DCA by snVA_Virama;
+sub uni0DC1 uni0DCA by snSHA_Virama;
+sub uni0DC2 uni0DCA by snSSA_Virama;
+sub uni0DC3 uni0DCA by snSA_Virama;
+sub uni0DC4 uni0DCA by snHA_Virama;
+sub uni0DC5 uni0DCA by snLLA_Virama;
+sub uni0DC6 uni0DCA by snFA_Virama;
+sub snK_SSA uni0DCA by snK_SSA_Virama;
+
+sub uni0D9B uni0DD2 by snKHA_mI;
+sub uni0D9E uni0DD2 by snNGA_mI;
+sub uni0DA0 uni0DD2 by snCA_mI;
+sub uni0DA1 uni0DD2 by snCHA_mI;
+sub uni0DA2 uni0DD2 by snJA_mI;
+sub uni0DA3 uni0DD2 by snJHA_mI;
+sub uni0DA6 uni0DD2 by snNYJA_mI;
+sub uni0DA7 uni0DD2 by snTTA_mI;
+sub uni0DA8 uni0DD2 by snTTHA_mI;
+sub uni0DA9 uni0DD2 by snDDA_mI;
+sub uni0DAA uni0DD2 by snDDHA_mI;
+sub uni0DAB uni0DD2 by snNNA_mI;
+sub uni0DAC uni0DD2 by snNNDDA_mI;
+sub uni0DAE uni0DD2 by snTHA_mI;
+sub uni0DB0 uni0DD2 by snDHA_mI;
+sub uni0DB5 uni0DD2 by snPHA_mI;
+sub uni0DB6 uni0DD2 by snBA_mI;
+sub uni0DB8 uni0DD2 by snMA_mI;
+sub uni0DB9 uni0DD2 by snMBA_mI;
+sub uni0DBB uni0DD2 by snRA_mI;
+sub uni0DBD uni0DD2 by snLA_mI;
+sub uni0DC0 uni0DD2 by snVA_mI;
+sub uni0DC5 uni0DD2 by snLLA_mI;
+
+sub uni0D9B uni0DD3 by snKHA_mII;
+sub uni0D9E uni0DD3 by snNGA_mII;
+sub uni0DA0 uni0DD3 by snCA_mII;
+sub uni0DA1 uni0DD3 by snCHA_mII;
+sub uni0DA2 uni0DD3 by snJA_mII;
+sub uni0DA3 uni0DD3 by snJHA_mII;
+sub uni0DA6 uni0DD3 by snNYJA_mII;
+sub uni0DA7 uni0DD3 by snTTA_mII;
+sub uni0DA8 uni0DD3 by snTTHA_mII;
+sub uni0DA9 uni0DD3 by snDDA_mII;
+sub uni0DAA uni0DD3 by snDDHA_mII;
+sub uni0DAC uni0DD3 by snNNDDA_mII;
+sub uni0DAE uni0DD3 by snTHA_mII;
+sub uni0DB0 uni0DD3 by snDHA_mII;
+sub uni0DB5 uni0DD3 by snPHA_mII;
+sub uni0DB6 uni0DD3 by snBA_mII;
+sub uni0DB8 uni0DD3 by snMA_mII;
+sub uni0DB9 uni0DD3 by snMBA_mII;
+sub uni0DBB uni0DD3 by snRA_mII;
+sub uni0DC0 uni0DD3 by snVA_mII;
+sub uni0DC5 uni0DD3 by snLLA_mII;
+### close feature 'abvs' ###
+} abvs;
+
+### feature:2:blws ###
+feature blws {
+### open feature 'blws' ###
+sub uni0D9A uni0DD4 by snKA_mU;
+sub uni0D9B uni0DD4 by snKHA_mU;
+sub uni0D9C uni0DD4 by snGA_mU;
+sub uni0D9D uni0DD4 by snGHA_mU;
+sub uni0D9E uni0DD4 by snNGA_mU;
+sub uni0D9F uni0DD4 by snNNGA_mU;
+sub uni0DA0 uni0DD4 by snCA_mU;
+sub uni0DA1 uni0DD4 by snCHA_mU;
+sub uni0DA2 uni0DD4 by snJA_mU;
+sub uni0DA3 uni0DD4 by snJHA_mU;
+sub uni0DA4 uni0DD4 by snNYA_mU;
+sub uni0DA5 uni0DD4 by snJNYA_mU;
+sub uni0DA6 uni0DD4 by snNYJA_mU;
+sub uni0DA7 uni0DD4 by snTTA_mU;
+sub uni0DA8 uni0DD4 by snTTHA_mU;
+sub uni0DA9 uni0DD4 by snDDA_mU;
+sub uni0DAA uni0DD4 by snDDHA_mU;
+sub uni0DAB uni0DD4 by snNNA_mU;
+sub uni0DAC uni0DD4 by snNNDDA_mU;
+sub uni0DAD uni0DD4 by snTA_mU;
+sub uni0DAE uni0DD4 by snTHA_mU;
+sub uni0DAF uni0DD4 by snDA_mU;
+sub uni0DB0 uni0DD4 by snDHA_mU;
+sub uni0DB1 uni0DD4 by snNA_mU;
+sub uni0DB3 uni0DD4 by snNDA_mU;
+sub uni0DB4 uni0DD4 by snPA_mU;
+sub uni0DB5 uni0DD4 by snPHA_mU;
+sub uni0DB6 uni0DD4 by snBA_mU;
+sub uni0DB7 uni0DD4 by snBHA_mU;
+sub uni0DB8 uni0DD4 by snMA_mU;
+sub uni0DB9 uni0DD4 by snMBA_mU;
+sub uni0DBA uni0DD4 by snYA_mU;
+sub uni0DBB uni0DD4 by snRA_mU;
+sub uni0DBD uni0DD4 by snLA_mU;
+sub uni0DC0 uni0DD4 by snVA_mU;
+sub uni0DC1 uni0DD4 by snSHA_mU;
+sub uni0DC2 uni0DD4 by snSSA_mU;
+sub uni0DC3 uni0DD4 by snSA_mU;
+sub uni0DC4 uni0DD4 by snHA_mU;
+sub uni0DC5 uni0DD4 by snLLA_mU;
+sub uni0DC6 uni0DD4 by snFA_mU;
+
+sub uni0D9A uni0DD6 by snKA_mUU;
+sub uni0D9B uni0DD6 by snKHA_mUU;
+sub uni0D9C uni0DD6 by snGA_mUU;
+sub uni0D9D uni0DD6 by snGHA_mUU;
+sub uni0D9E uni0DD6 by snNGA_mUU;
+sub uni0D9F uni0DD6 by snNNGA_mUU;
+sub uni0DA0 uni0DD6 by snCA_mUU;
+sub uni0DA1 uni0DD6 by snCHA_mUU;
+sub uni0DA2 uni0DD6 by snJA_mUU;
+sub uni0DA3 uni0DD6 by snJHA_mUU;
+sub uni0DA4 uni0DD6 by snNYA_mUU;
+sub uni0DA5 uni0DD6 by snJNYA_mUU;
+sub uni0DA6 uni0DD6 by snNYJA_mUU;
+sub uni0DA7 uni0DD6 by snTTA_mUU;
+sub uni0DA8 uni0DD6 by snTTHA_mUU;
+sub uni0DA9 uni0DD6 by snDDA_mUU;
+sub uni0DAA uni0DD6 by snDDHA_mUU;
+sub uni0DAB uni0DD6 by snNNA_mUU;
+sub uni0DAC uni0DD6 by snNNDDA_mUU;
+sub uni0DAD uni0DD6 by snTA_mUU;
+sub uni0DAE uni0DD6 by snTHA_mUU;
+sub uni0DAF uni0DD6 by snDA_mUU;
+sub uni0DB0 uni0DD6 by snDHA_mUU;
+sub uni0DB1 uni0DD6 by snNA_mUU;
+sub uni0DB3 uni0DD6 by snNDA_mUU;
+sub uni0DB4 uni0DD6 by snPA_mUU;
+sub uni0DB5 uni0DD6 by snPHA_mUU;
+sub uni0DB6 uni0DD6 by snBA_mUU;
+sub uni0DB7 uni0DD6 by snBHA_mUU;
+sub uni0DB8 uni0DD6 by snMA_mUU;
+sub uni0DB9 uni0DD6 by snMBA_mUU;
+sub uni0DBA uni0DD6 by snYA_mUU;
+sub uni0DBB uni0DD6 by snRA_mUU;
+sub uni0DBD uni0DD6 by snLA_mUU;
+sub uni0DC0 uni0DD6 by snVA_mUU;
+sub uni0DC1 uni0DD6 by snSHA_mUU;
+sub uni0DC2 uni0DD6 by snSSA_mUU;
+sub uni0DC3 uni0DD6 by snSA_mUU;
+sub uni0DC4 uni0DD6 by snHA_mUU;
+sub uni0DC5 uni0DD6 by snLLA_mUU;
+sub uni0DC6 uni0DD6 by snFA_mUU;
+### close feature 'blws' ###
+} blws;
+
+### feature:3:vatu ###
+feature vatu {
+### open feature 'vatu' ###
+sub uni0DCA uni200D uni0DBA by snYAc2;
+sub uni0DCA uni200D uni0DBB by snRAc2;
+
+sub uni0D9A uni0DCA uni200D uni0DBB by snK_RA;
+sub uni0D9B uni0DCA uni200D uni0DBB by snKH_RA;
+sub uni0D9C uni0DCA uni200D uni0DBB by snG_RA;
+sub uni0D9D uni0DCA uni200D uni0DBB by snGH_RA;
+sub uni0D9F uni0DCA uni200D uni0DBB by snNNG_RA;
+sub uni0DA0 uni0DCA uni200D uni0DBB by snC_RA;
+sub uni0DA1 uni0DCA uni200D uni0DBB by snCH_RA;
+sub uni0DA2 uni0DCA uni200D uni0DBB by snJ_RA;
+sub uni0DA4 uni0DCA uni200D uni0DBB by snNY_RA;
+sub uni0DA5 uni0DCA uni200D uni0DBB by snJNY_RA;
+sub uni0DA6 uni0DCA uni200D uni0DBB by snNYJ_RA;
+sub uni0DA7 uni0DCA uni200D uni0DBB by snTT_RA;
+sub uni0DA8 uni0DCA uni200D uni0DBB by snTTH_RA;
+sub uni0DAA uni0DCA uni200D uni0DBB by snDDH_RA;
+sub uni0DAB uni0DCA uni200D uni0DBB by snNN_RA;
+sub uni0DAD uni0DCA uni200D uni0DBB by snT_RA;
+sub uni0DAF uni0DCA uni200D uni0DBB by snD_RA;
+sub uni0DB1 uni0DCA uni200D uni0DBB by snN_RA;
+sub uni0DB3 uni0DCA uni200D uni0DBB by snND_RA;
+sub uni0DB7 uni0DCA uni200D uni0DBB by snBH_RA;
+sub uni0DB8 uni0DCA uni200D uni0DBB by snM_RA;
+sub uni0DBA uni0DCA uni200D uni0DBB by snY_RA;
+sub uni0DC0 uni0DCA uni200D uni0DBB by snV_RA;
+sub uni0DC1 uni0DCA uni200D uni0DBB by snSH_RA;
+sub uni0DC2 uni0DCA uni200D uni0DBB by snSS_RA;
+sub uni0DC3 uni0DCA uni200D uni0DBB by snS_RA;
+sub uni0DC4 uni0DCA uni200D uni0DBB by snH_RA;
+sub uni0DC6 uni0DCA uni200D uni0DBB by snF_RA;
+sub snK_SSA uni0DCA uni200D uni0DBB by snK_SS_RA;
+
+sub uni0DA9 uni0DCA uni200D uni0DBB uni0DD2 by snDD_RA_mI;
+sub uni0DC1 uni0DCA uni200D uni0DBB uni0DD2 by snSH_RA_mI;
+sub uni0DA7 uni0DCA uni200D uni0DBB uni0DD2 by snTT_RA_mI;
+
+sub uni0DA9 uni0DCA uni200D uni0DBB uni0DD3 by snDD_RA_mII;
+sub uni0DC1 uni0DCA uni200D uni0DBB uni0DD3 by snSH_RA_mII;
+sub uni0DA7 uni0DCA uni200D uni0DBB uni0DD3 by snTT_RA_mII;
+### close feature 'vatu' ###
+} vatu;
+
+### feature:4:psts ###
+feature psts {
+### open feature 'psts' ###
+sub uni0DBB uni0DD0 by snRA_mAE;
+sub uni0DBB uni0DD1 by snRA_mAAE;
+
+sub uni0DCF uni0DCA by snmAA_Virama;
+### close feature 'psts' ###
+} psts;
+
+### feature:5:pstf ###
+feature pstf {
+### open feature 'pstf' ###
+  sub uni0DDA by uni0DCA;
+  sub uni0DDC by uni0DCF;
+  sub uni0DDD by snmAA_Virama;
+  sub uni0DDE by uni0DDF;
+### close feature 'pstf' ###
+} pstf;
+
+
+table GDEF {
+ GlyphClassDef ,# Base 
+ , # Liga 
+ [uni0DDA uni0DDB uni0DDC uni0DDD uni0DDE uni0DCA], # Mark 
+ ;
+ } GDEF;

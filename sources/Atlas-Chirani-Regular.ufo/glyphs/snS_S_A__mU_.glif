@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snSSA_mU" format="2">
+	<advance width="738"/>
+	<outline>
+		<contour>
+			<point x="641" y="110" type="line"/>
+			<point x="669" y="140" type="line"/>
+			<point x="669" y="-335" type="line"/>
+			<point x="641" y="-335" type="line"/>
+		</contour>
+		<contour>
+			<point x="93" y="-253" type="line"/>
+			<point x="780" y="-253" type="line"/>
+			<point x="780" y="-280" type="line"/>
+			<point x="93" y="-280" type="line"/>
+		</contour>
+		<component base="uni0DC2"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

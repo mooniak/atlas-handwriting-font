@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snTTHA_mII" format="2">
+	<advance width="723"/>
+	<outline>
+		<contour>
+			<point x="630" y="688" type="curve" smooth="yes"/>
+			<point x="630" y="835"/>
+			<point x="508" y="958"/>
+			<point x="338" y="958" type="curve" smooth="yes"/>
+			<point x="183" y="958"/>
+			<point x="56" y="862"/>
+			<point x="56" y="744" type="curve" smooth="yes"/>
+			<point x="56" y="641"/>
+			<point x="160" y="555"/>
+			<point x="297" y="546" type="curve"/>
+			<point x="295" y="519" type="line"/>
+			<point x="155" y="523"/>
+			<point x="28" y="629"/>
+			<point x="28" y="744" type="curve" smooth="yes"/>
+			<point x="28" y="878"/>
+			<point x="165" y="985"/>
+			<point x="338" y="985" type="curve" smooth="yes"/>
+			<point x="519" y="985"/>
+			<point x="658" y="852"/>
+			<point x="658" y="688" type="curve" smooth="yes"/>
+			<point x="658" y="607"/>
+			<point x="618" y="555"/>
+			<point x="561" y="555" type="curve" smooth="yes"/>
+			<point x="507" y="555"/>
+			<point x="465" y="603"/>
+			<point x="465" y="660" type="curve" smooth="yes"/>
+			<point x="465" y="801"/>
+			<point x="591" y="857"/>
+			<point x="780" y="857" type="curve"/>
+			<point x="782" y="832" type="line"/>
+			<point x="608" y="832"/>
+			<point x="493" y="780"/>
+			<point x="493" y="664" type="curve" smooth="yes"/>
+			<point x="493" y="618"/>
+			<point x="519" y="583"/>
+			<point x="561" y="583" type="curve" smooth="yes"/>
+			<point x="600" y="583"/>
+			<point x="630" y="624"/>
+		</contour>
+		<component base="uni0DA8"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

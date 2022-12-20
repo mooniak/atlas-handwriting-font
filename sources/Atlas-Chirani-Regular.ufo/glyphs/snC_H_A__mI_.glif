@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snCHA_mI" format="2">
+	<advance width="786"/>
+	<outline>
+		<contour>
+			<point x="529" y="549" type="curve"/>
+			<point x="514" y="526" type="line"/>
+			<point x="438" y="539"/>
+			<point x="315" y="604"/>
+			<point x="315" y="735" type="curve" smooth="yes"/>
+			<point x="315" y="839"/>
+			<point x="398" y="917"/>
+			<point x="504" y="917" type="curve" smooth="yes"/>
+			<point x="609" y="917"/>
+			<point x="676" y="849"/>
+			<point x="711" y="798" type="curve"/>
+			<point x="688" y="784" type="line"/>
+			<point x="641" y="852"/>
+			<point x="580" y="889"/>
+			<point x="504" y="890" type="curve" smooth="yes"/>
+			<point x="413" y="891"/>
+			<point x="343" y="822"/>
+			<point x="343" y="735" type="curve" smooth="yes"/>
+			<point x="343" y="625"/>
+			<point x="438" y="567"/>
+		</contour>
+		<component base="uni0DA1"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

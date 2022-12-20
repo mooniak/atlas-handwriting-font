@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snKHA_mUU" format="2">
+	<advance width="1053"/>
+	<outline>
+		<contour>
+			<point x="971" y="120" type="line"/>
+			<point x="999" y="150" type="line"/>
+			<point x="999" y="-355" type="line"/>
+			<point x="971" y="-355" type="line"/>
+		</contour>
+		<contour>
+			<point x="526" y="-346" type="curve" smooth="yes"/>
+			<point x="434" y="-346"/>
+			<point x="360" y="-284"/>
+			<point x="360" y="-198" type="curve" smooth="yes"/>
+			<point x="360" y="-122"/>
+			<point x="416" y="-64"/>
+			<point x="497" y="-64" type="curve" smooth="yes"/>
+			<point x="555" y="-64"/>
+			<point x="602" y="-106"/>
+			<point x="602" y="-161" type="curve" smooth="yes"/>
+			<point x="602" y="-208"/>
+			<point x="565" y="-239"/>
+			<point x="527" y="-239" type="curve" smooth="yes"/>
+			<point x="504" y="-239"/>
+			<point x="482" y="-229"/>
+			<point x="465" y="-204" type="curve"/>
+			<point x="485" y="-186" type="line"/>
+			<point x="497" y="-204"/>
+			<point x="513" y="-212"/>
+			<point x="529" y="-212" type="curve" smooth="yes"/>
+			<point x="551" y="-212"/>
+			<point x="574" y="-194"/>
+			<point x="574" y="-161" type="curve" smooth="yes"/>
+			<point x="574" y="-124"/>
+			<point x="540" y="-91"/>
+			<point x="497" y="-91" type="curve" smooth="yes"/>
+			<point x="454" y="-91"/>
+			<point x="388" y="-116"/>
+			<point x="388" y="-198" type="curve" smooth="yes"/>
+			<point x="388" y="-274"/>
+			<point x="461" y="-319"/>
+			<point x="516" y="-319" type="curve" smooth="yes"/>
+			<point x="642" y="-319"/>
+			<point x="729" y="-170"/>
+			<point x="906" y="-170" type="curve" smooth="yes"/>
+			<point x="963" y="-170"/>
+			<point x="1018" y="-188"/>
+			<point x="1103" y="-228" type="curve"/>
+			<point x="1091" y="-253" type="line"/>
+			<point x="1004" y="-211"/>
+			<point x="940" y="-197"/>
+			<point x="906" y="-197" type="curve" smooth="yes"/>
+			<point x="747" y="-197"/>
+			<point x="655" y="-346"/>
+		</contour>
+		<component base="uni0D9B"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

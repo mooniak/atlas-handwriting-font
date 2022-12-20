@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snDHA_mU" format="2">
+	<advance width="963"/>
+	<outline>
+		<contour>
+			<point x="821" y="40" type="line"/>
+			<point x="849" y="70" type="line"/>
+			<point x="849" y="-335" type="line"/>
+			<point x="821" y="-335" type="line"/>
+		</contour>
+		<contour>
+			<point x="243" y="-253" type="line"/>
+			<point x="1000" y="-253" type="line"/>
+			<point x="1000" y="-280" type="line"/>
+			<point x="243" y="-280" type="line"/>
+		</contour>
+		<component base="uni0DB0"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

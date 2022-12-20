@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snND_RA" format="2">
+	<advance width="746"/>
+	<outline>
+		<contour>
+			<point x="367" y="509" type="curve"/>
+			<point x="372" y="483" type="line"/>
+			<point x="84" y="483"/>
+			<point x="3" y="221"/>
+			<point x="119" y="10" type="curve"/>
+			<point x="93" y="1" type="line"/>
+			<point x="-27" y="225"/>
+			<point x="56" y="509"/>
+		</contour>
+		<component base="snD_RA" xOffset="224"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

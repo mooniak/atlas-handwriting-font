@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snSHA_mUU" format="2">
+	<advance width="792"/>
+	<outline>
+		<contour>
+			<point x="398" y="-220" type="curve" smooth="yes"/>
+			<point x="398" y="-283"/>
+			<point x="466" y="-318"/>
+			<point x="539" y="-318" type="curve" smooth="yes"/>
+			<point x="612" y="-318"/>
+			<point x="674" y="-278"/>
+			<point x="708" y="-182" type="curve"/>
+			<point x="733" y="-191" type="line"/>
+			<point x="705" y="-274"/>
+			<point x="644" y="-345"/>
+			<point x="539" y="-345" type="curve" smooth="yes"/>
+			<point x="452" y="-345"/>
+			<point x="370" y="-297"/>
+			<point x="370" y="-220" type="curve" smooth="yes"/>
+			<point x="370" y="-134"/>
+			<point x="453" y="-108"/>
+			<point x="520" y="-84" type="curve"/>
+			<point x="393" y="-54" type="line"/>
+			<point x="393" y="-22" type="line"/>
+			<point x="547" y="16" type="line"/>
+			<point x="558" y="-9" type="line"/>
+			<point x="437" y="-38" type="line"/>
+			<point x="590" y="-72" type="line"/>
+			<point x="590" y="-94" type="line"/>
+			<point x="519" y="-109"/>
+			<point x="398" y="-138"/>
+		</contour>
+		<component base="uni0DC1"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

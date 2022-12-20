@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>snKHA_Virama</key>
+	<string>snK_H_A__V_irama.glif</string>
+	<key>snRA_mAAE</key>
+	<string>snR_A__mA_A_E_.glif</string>
+	<key>snRAc2</key>
+	<string>snR_A_c2.glif</string>
+	<key>snReph</key>
+	<string>snR_eph.glif</string>
+	<key>snVA_Virama</key>
+	<string>snV_A__V_irama.glif</string>
+	<key>snVA_mI</key>
+	<string>snV_A__mI_.glif</string>
+	<key>snVA_mII</key>
+	<string>snV_A__mI_I_.glif</string>
+	<key>snYAc2</key>
+	<string>snY_A_c2.glif</string>
+	<key>uni0DD6</key>
+	<string>uni0D_D_6.glif</string>
+	<key>uni0DF4</key>
+	<string>uni0D_F_4.glif</string>
+</dict>
+</plist>

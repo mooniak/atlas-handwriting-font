@@ -6,5 +6,5 @@
 # Name or Organization <email address>
 
 Chirani Amarasiri <>
-Mooniak Pvt. Ltd <hello@mooniak.com>
 Ogilvi Digital <info@ogilvy.lk>
+Mooniak Pvt. Ltd <hello@mooniak.com>

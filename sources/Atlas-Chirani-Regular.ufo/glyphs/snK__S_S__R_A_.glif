@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snK_SS_RA" format="2">
+	<advance width="1263"/>
+	<outline>
+		<component base="snK_SSA"/>
+		<component base="snRAc2" xOffset="1273"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snK_SSA_Virama" format="2">
+	<advance width="1263"/>
+	<outline>
+		<contour>
+			<point x="1116" y="882" type="curve" smooth="yes"/>
+			<point x="1116" y="819"/>
+			<point x="1153" y="788"/>
+			<point x="1205" y="788" type="curve" smooth="yes"/>
+			<point x="1242" y="788"/>
+			<point x="1269" y="804"/>
+			<point x="1281" y="816" type="curve"/>
+			<point x="1297" y="796" type="line"/>
+			<point x="1272" y="772"/>
+			<point x="1236" y="761"/>
+			<point x="1205" y="761" type="curve" smooth="yes"/>
+			<point x="1153" y="761"/>
+			<point x="1088" y="789"/>
+			<point x="1088" y="882" type="curve" smooth="yes"/>
+			<point x="1088" y="928"/>
+			<point x="1115" y="982"/>
+			<point x="1165" y="982" type="curve" smooth="yes"/>
+			<point x="1193" y="982"/>
+			<point x="1230" y="960"/>
+			<point x="1230" y="913" type="curve" smooth="yes"/>
+			<point x="1230" y="842"/>
+			<point x="1151" y="803"/>
+			<point x="1057" y="803" type="curve" smooth="yes"/>
+			<point x="969" y="803"/>
+			<point x="904" y="847"/>
+			<point x="904" y="944" type="curve" smooth="yes"/>
+			<point x="904" y="1027"/>
+			<point x="959" y="1116"/>
+			<point x="1068" y="1132" type="curve"/>
+			<point x="1068" y="587" type="line"/>
+			<point x="1041" y="587" type="line"/>
+			<point x="1041" y="1097" type="line"/>
+			<point x="1010" y="1090"/>
+			<point x="931" y="1042"/>
+			<point x="931" y="944" type="curve" smooth="yes"/>
+			<point x="931" y="856"/>
+			<point x="992" y="830"/>
+			<point x="1059" y="830" type="curve" smooth="yes"/>
+			<point x="1115" y="830"/>
+			<point x="1202" y="850"/>
+			<point x="1202" y="914" type="curve" smooth="yes"/>
+			<point x="1202" y="942"/>
+			<point x="1184" y="955"/>
+			<point x="1165" y="955" type="curve" smooth="yes"/>
+			<point x="1131" y="955"/>
+			<point x="1116" y="915"/>
+		</contour>
+		<component base="snK_SSA"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

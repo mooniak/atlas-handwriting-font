@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snDDHA_mII" format="2">
+	<advance width="933"/>
+	<outline>
+		<contour>
+			<point x="840" y="688" type="curve" smooth="yes"/>
+			<point x="840" y="835"/>
+			<point x="718" y="958"/>
+			<point x="548" y="958" type="curve" smooth="yes"/>
+			<point x="393" y="958"/>
+			<point x="266" y="862"/>
+			<point x="266" y="744" type="curve" smooth="yes"/>
+			<point x="266" y="641"/>
+			<point x="370" y="555"/>
+			<point x="507" y="546" type="curve"/>
+			<point x="505" y="519" type="line"/>
+			<point x="365" y="523"/>
+			<point x="238" y="629"/>
+			<point x="238" y="744" type="curve" smooth="yes"/>
+			<point x="238" y="878"/>
+			<point x="375" y="985"/>
+			<point x="548" y="985" type="curve" smooth="yes"/>
+			<point x="729" y="985"/>
+			<point x="868" y="852"/>
+			<point x="868" y="688" type="curve" smooth="yes"/>
+			<point x="868" y="607"/>
+			<point x="828" y="555"/>
+			<point x="771" y="555" type="curve" smooth="yes"/>
+			<point x="717" y="555"/>
+			<point x="675" y="603"/>
+			<point x="675" y="660" type="curve" smooth="yes"/>
+			<point x="675" y="801"/>
+			<point x="801" y="857"/>
+			<point x="990" y="857" type="curve"/>
+			<point x="992" y="832" type="line"/>
+			<point x="818" y="832"/>
+			<point x="703" y="780"/>
+			<point x="703" y="664" type="curve" smooth="yes"/>
+			<point x="703" y="618"/>
+			<point x="729" y="583"/>
+			<point x="771" y="583" type="curve" smooth="yes"/>
+			<point x="810" y="583"/>
+			<point x="840" y="624"/>
+		</contour>
+		<component base="uni0DAA"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

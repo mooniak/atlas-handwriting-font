@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snTHA_mI" format="2">
+	<advance width="615"/>
+	<outline>
+		<contour>
+			<point x="227" y="566" type="curve"/>
+			<point x="225" y="539" type="line"/>
+			<point x="150" y="541"/>
+			<point x="-32" y="586"/>
+			<point x="-32" y="757" type="curve" smooth="yes"/>
+			<point x="-32" y="875"/>
+			<point x="77" y="985"/>
+			<point x="248" y="985" type="curve" smooth="yes"/>
+			<point x="411" y="985"/>
+			<point x="548" y="873"/>
+			<point x="548" y="730" type="curve" smooth="yes"/>
+			<point x="548" y="621"/>
+			<point x="471" y="530"/>
+			<point x="343" y="488" type="curve"/>
+			<point x="335" y="515" type="line"/>
+			<point x="458" y="558"/>
+			<point x="520" y="639"/>
+			<point x="520" y="726" type="curve" smooth="yes"/>
+			<point x="520" y="868"/>
+			<point x="380" y="958"/>
+			<point x="248" y="958" type="curve" smooth="yes"/>
+			<point x="138" y="958"/>
+			<point x="-4" y="892"/>
+			<point x="-4" y="757" type="curve" smooth="yes"/>
+			<point x="-4" y="625"/>
+			<point x="125" y="573"/>
+		</contour>
+		<component base="uni0DAE"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

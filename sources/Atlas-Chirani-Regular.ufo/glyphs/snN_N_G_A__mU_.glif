@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snNNGA_mU" format="2">
+	<advance width="905"/>
+	<outline>
+		<contour>
+			<point x="788" y="68" type="curve"/>
+			<point x="790" y="38" type="line"/>
+			<point x="665" y="-2"/>
+			<point x="614" y="-87"/>
+			<point x="614" y="-177" type="curve" smooth="yes"/>
+			<point x="614" y="-249"/>
+			<point x="672" y="-318"/>
+			<point x="775" y="-318" type="curve" smooth="yes"/>
+			<point x="848" y="-318"/>
+			<point x="906" y="-278"/>
+			<point x="944" y="-182" type="curve"/>
+			<point x="969" y="-191" type="line"/>
+			<point x="937" y="-274"/>
+			<point x="880" y="-345"/>
+			<point x="775" y="-345" type="curve" smooth="yes"/>
+			<point x="658" y="-345"/>
+			<point x="586" y="-263"/>
+			<point x="586" y="-177" type="curve" smooth="yes"/>
+			<point x="586" y="-41"/>
+			<point x="683" y="35"/>
+		</contour>
+		<component base="uni0D9F"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

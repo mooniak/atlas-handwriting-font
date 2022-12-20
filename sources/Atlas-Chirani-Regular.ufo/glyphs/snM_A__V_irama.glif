@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snMA_Virama" format="2">
+	<advance width="929"/>
+	<outline>
+		<contour>
+			<point x="232" y="899" type="line"/>
+			<point x="260" y="899" type="line"/>
+			<point x="260" y="590" type="line"/>
+			<point x="232" y="570" type="line"/>
+		</contour>
+		<contour>
+			<point x="26" y="834" type="line"/>
+			<point x="899" y="834" type="line"/>
+			<point x="899" y="807" type="line"/>
+			<point x="26" y="807" type="line"/>
+		</contour>
+		<component base="uni0DB8"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

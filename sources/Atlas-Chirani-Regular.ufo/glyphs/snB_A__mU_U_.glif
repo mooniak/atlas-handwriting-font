@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snBA_mUU" format="2">
+	<advance width="1033"/>
+	<outline>
+		<component base="uni0DB6"/>
+		<component base="uni0DD6" xOffset="1016"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

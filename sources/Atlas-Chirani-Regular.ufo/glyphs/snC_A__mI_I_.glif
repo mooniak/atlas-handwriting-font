@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snCA_mII" format="2">
+	<advance width="829"/>
+	<outline>
+		<contour>
+			<point x="352" y="265" type="curve"/>
+			<point x="359" y="243" type="line"/>
+			<point x="189" y="142"/>
+			<point x="101" y="97"/>
+			<point x="78" y="-54" type="curve"/>
+			<point x="49" y="-52" type="line"/>
+			<point x="75" y="125"/>
+			<point x="193" y="176"/>
+		</contour>
+		<component base="snVA_mII"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

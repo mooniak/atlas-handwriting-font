@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="snM_RA" format="2">
+	<advance width="929"/>
+	<outline>
+		<component base="uni0DB8"/>
+		<component base="snRAc2" xOffset="903"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>
